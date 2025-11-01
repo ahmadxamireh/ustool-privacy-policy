@@ -1,3 +1,7 @@
+---
+title: "Ustool App — Privacy Policy"
+---
+
 # Ustool App — Privacy Policy
 
 **Effective date:** 1 November 2025
